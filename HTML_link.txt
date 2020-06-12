@@ -1,0 +1,1 @@
+https://htmlpreview.github.io/?https://github.com/ryanalbertson/Ordinary_Least_Squares_Regression/blob/master/ols_model_using_pga_tour_data.html
